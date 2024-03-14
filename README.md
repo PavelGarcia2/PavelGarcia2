@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pavel Garcia</h1>
 <h3 align="center">A passionate computer sciencie student for learning the unknown</h3>
-<p> Once upon a time, in the vast expanse of digital landscapes, there existed a curious mind filled with the wonders of the unknown. That mind belonged to me, Pavel, a budding enthusiast in the realm of computer science. With a heart full of curiosity and a mind eager to explore, I welcomed you with a warm greeting, "Nice to meet you, it's nice to have you here."
+<p> Once upon a time, in the vast expanse of digital landscapes, there existed a curious mind filled with the wonders of the unknown. That mind belonged to me, Pavel, a budding enthusiast in the realm of computer science. With a heart full of curiosity and a mind eager to explore, I welcome you with a warm greeting, "Nice to meet you, it's nice to have you here."
 
 As you step into my coding brain, you're greeted by a dazzling array of projects, each one a testament to my journey through the intricate world of technology. But this isn't just a showcase of achievements; it's a chronicle of discovery, a story waiting to unfold.
 
-My journey began with a simple fascination for computers. From the first time I laid eyes on a screen, I was captivated by the endless possibilities it held. I started tinkering, learning the basics of programming languages, and soon found myself lost in the beauty of code.</p>
+My journey began with a simple fascination for computers. From the first time I laid eyes on a screen, I was captivated by the endless possibilities it held. I started tinkering, learning the basics of programming languages, and soon found myself lost in the beauty of code. As we all did I started with a basic hello world , lets see how far we can reach together 👨‍💻</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavelgarcia2&label=Profile%20views&color=0e75b6&style=flat" alt="pavelgarcia2" /> </p>
 
 <h3 align="left">Connect with me:</h3>
