@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavelgarcia2&label=Profile%20views&color=0e75b6&style=flat" alt="pavelgarcia2" /> </p>
 <h1 align="center">Hi 👋, I'm Pavel Garcia</h1>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavelgarcia2&show_icons=true&locale=en&layout=compact" alt="pavelgarcia2" /></p>
+<img width="1834" alt="Make your README" src="https://github.com/PavelGarcia2/Minesweeper/assets/60678482/b6dfe2ca-1352-4314-81a1-ce0a855b1c2d">
 
 <h3 align="center">A passionate computer sciencie student for learning the unknown</h3>
 <p> Once upon a time, in the vast expanse of digital landscapes, there existed a curious mind filled with the wonders of the unknown. That mind belonged to me, Pavel, a budding enthusiast in the realm of computer science. With a heart full of curiosity and a mind eager to explore, I welcome you with a warm greeting, "Nice to meet you, it's nice to have you here."
