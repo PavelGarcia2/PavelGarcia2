@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavelgarcia2&label=Profile%20views&color=0e75b6&style=flat" alt="pavelgarcia2" /> </p>
 <img width="1834" alt="Make your README" src="https://github.com/PavelGarcia2/Minesweeper/assets/60678482/b6dfe2ca-1352-4314-81a1-ce0a855b1c2d">
 
-<h3 align="center">A passionate computer sciencie student for learning the unknown</h3>
+<h3 align="center">A passionate computer science student eager to learn the unknown</h3>
 <p> Once upon a time, in the vast expanse of digital landscapes, there existed a curious mind filled with the wonders of the unknown. That mind belonged to me, Pavel, a budding enthusiast in the realm of computer science. With a heart full of curiosity and a mind eager to explore, I welcome you with a warm greeting, "Nice to meet you, it's nice to have you here."
 
 As you step into my coding brain, you're greeted by a dazzling array of projects, each one a testament to my journey through the intricate world of technology. But this isn't just a showcase of achievements; it's a chronicle of discovery, a story waiting to unfold.
