@@ -1,5 +1,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavelgarcia2&label=Profile%20views&color=0e75b6&style=flat" alt="pavelgarcia2" /> </p>
-<h1 align="center">Hi 👋, I'm Pavel Garcia</h1>
 <img width="1834" alt="Make your README" src="https://github.com/PavelGarcia2/Minesweeper/assets/60678482/b6dfe2ca-1352-4314-81a1-ce0a855b1c2d">
 
 <h3 align="center">A passionate computer sciencie student for learning the unknown</h3>
